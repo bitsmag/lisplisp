@@ -35,7 +35,7 @@ Compare two values like so
 ```
 
 
-Use a if-statement
+Use a if-statement like so
 ```
 (if (eq? 5 6) (+ 7 8) (+ 9 10))
 -> 19
